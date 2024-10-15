@@ -49,4 +49,4 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 
 # RESULT
-        The above coding and output are verified results
+        Hence the above output is verified
